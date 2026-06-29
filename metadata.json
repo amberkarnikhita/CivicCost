@@ -1,0 +1,6 @@
+{
+  "name": "CivicCost",
+  "description": "The Economic Damage Clock — Quantifying the live economic bleeding of unresolved community civic issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
